@@ -1,0 +1,70 @@
+﻿@page
+@model FootballDatabase510.Pages.PlayersModel
+@{
+    ViewData["Title"] = "Players";
+}
+
+<div class="players-container">
+    <h1>Players</h1>
+
+    <div class="search-controls">
+        <p>- Search for player, team, position, etc</p>
+        <div class="search-fields">
+            <div class="search-field">
+                <label>Team</label>
+                <input type="text" class="search-input" />
+            </div>
+            <div class="search-field">
+                <label>Position</label>
+                <input type="text" class="search-input" />
+            </div>
+        </div>
+    </div>
+
+    <hr class="divider" />
+
+    <h2>Player Summary</h2>
+
+    <div class="table-container">
+        <table class="players-table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>PLAYER</th>
+                    <th>TEAM</th>
+                    <th>AGE</th>
+                    <th>NAT</th>
+                    <th>POS</th>
+                    <th>APP</th>
+                    <th>GOALS</th>
+                    <th>ASSI</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><input type="checkbox" /></td>
+                    <td>Lionel Messi</td>
+                    <td>FCC Barcelona</td>
+                    <td>33</td>
+                    <td>ARG</td>
+                    <td>FW</td>
+                    <td>18</td>
+                    <td>14</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Robert Lewandowski</td>
+                    <td>FC Bayern Munich</td>
+                    <td>31</td>
+                    <td>POL</td>
+                    <td>FW</td>
+                    <td>17</td>
+                    <td>20</td>
+                    <td></td>
+                </tr>
+                <!-- Add all other players from your mockup -->
+            </tbody>
+        </table>
+    </div>
+</div>

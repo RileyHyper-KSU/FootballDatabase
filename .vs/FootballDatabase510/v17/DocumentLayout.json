@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\riley\\source\\repos\\FootballDatabase510\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24EE66BC-0A48-424B-9AA2-9BAE166C909A}|FootballDatabase510\\FootballDatabase510.csproj|c:\\users\\riley\\source\\repos\\footballdatabase510\\footballdatabase510\\pages\\players.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EE66BC-0A48-424B-9AA2-9BAE166C909A}|FootballDatabase510\\FootballDatabase510.csproj|solutionrelative:footballdatabase510\\pages\\players.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EE66BC-0A48-424B-9AA2-9BAE166C909A}|FootballDatabase510\\FootballDatabase510.csproj|c:\\users\\riley\\source\\repos\\footballdatabase510\\footballdatabase510\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24EE66BC-0A48-424B-9AA2-9BAE166C909A}|FootballDatabase510\\FootballDatabase510.csproj|solutionrelative:footballdatabase510\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EE66BC-0A48-424B-9AA2-9BAE166C909A}|FootballDatabase510\\FootballDatabase510.csproj|c:\\users\\riley\\source\\repos\\footballdatabase510\\footballdatabase510\\pages\\players.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24EE66BC-0A48-424B-9AA2-9BAE166C909A}|FootballDatabase510\\FootballDatabase510.csproj|solutionrelative:footballdatabase510\\pages\\players.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\riley\\source\\repos\\FootballDatabase510\\FootballDatabase510\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FootballDatabase510\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\riley\\source\\repos\\FootballDatabase510\\FootballDatabase510\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FootballDatabase510\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-30T21:21:37.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Players.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\riley\\source\\repos\\FootballDatabase510\\FootballDatabase510\\Pages\\Players.cshtml.cs",
+              "RelativeDocumentMoniker": "FootballDatabase510\\Pages\\Players.cshtml.cs",
+              "ToolTip": "C:\\Users\\riley\\source\\repos\\FootballDatabase510\\FootballDatabase510\\Pages\\Players.cshtml.cs",
+              "RelativeToolTip": "FootballDatabase510\\Pages\\Players.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:21:05.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Players.cshtml",
+              "DocumentMoniker": "C:\\Users\\riley\\source\\repos\\FootballDatabase510\\FootballDatabase510\\Pages\\Players.cshtml",
+              "RelativeDocumentMoniker": "FootballDatabase510\\Pages\\Players.cshtml",
+              "ToolTip": "C:\\Users\\riley\\source\\repos\\FootballDatabase510\\FootballDatabase510\\Pages\\Players.cshtml",
+              "RelativeToolTip": "FootballDatabase510\\Pages\\Players.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T21:21:04.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
