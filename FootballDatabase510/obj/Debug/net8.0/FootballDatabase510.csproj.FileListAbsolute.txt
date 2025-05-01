@@ -28,3 +28,34 @@ C:\Users\riley\source\repos\FootballDatabase510\FootballDatabase510\obj\Debug\ne
 C:\Users\riley\source\repos\FootballDatabase510\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.pdb
 C:\Users\riley\source\repos\FootballDatabase510\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.genruntimeconfig.cache
 C:\Users\riley\source\repos\FootballDatabase510\FootballDatabase510\obj\Debug\net8.0\ref\FootballDatabase510.dll
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\bin\Debug\net8.0\appsettings.json
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\bin\Debug\net8.0\FootballDatabase510.staticwebassets.runtime.json
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\bin\Debug\net8.0\FootballDatabase510.exe
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\bin\Debug\net8.0\FootballDatabase510.deps.json
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\bin\Debug\net8.0\FootballDatabase510.runtimeconfig.json
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\bin\Debug\net8.0\FootballDatabase510.dll
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\bin\Debug\net8.0\FootballDatabase510.pdb
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.AssemblyInfoInputs.cache
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.AssemblyInfo.cs
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.csproj.CoreCompileInputs.cache
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.RazorAssemblyInfo.cache
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.RazorAssemblyInfo.cs
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.sourcelink.json
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\staticwebassets\msbuild.FootballDatabase510.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\staticwebassets\msbuild.build.FootballDatabase510.props
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FootballDatabase510.props
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FootballDatabase510.props
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\scopedcss\bundle\FootballDatabase510.styles.css
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\scopedcss\projectbundle\FootballDatabase510.bundle.scp.css
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.dll
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\refint\FootballDatabase510.dll
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.pdb
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\FootballDatabase510.genruntimeconfig.cache
+C:\Users\1of4b\OneDrive\Documents\K STATE CLASSES\CIS300\FootballDatabase\FootballDatabase510\obj\Debug\net8.0\ref\FootballDatabase510.dll
