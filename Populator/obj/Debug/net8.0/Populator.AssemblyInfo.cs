@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Populator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+989adf8ee55524a109849a412191a5766fbedf82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b590072444343a96a21a65b73a25fe63ba478208")]
 [assembly: System.Reflection.AssemblyProductAttribute("Populator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Populator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
